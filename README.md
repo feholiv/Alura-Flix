@@ -1,5 +1,7 @@
 <div>
   <h1>Alura Flix</h1>
+    <p>Projeto de uma Stream chamada Alura Flix.</p>
+
   <p>Este é um projeto criado com o intuito de aprender HTML5 e CSS3 através da "Escola de Front_end" Alura.</p>
 </div>
 
